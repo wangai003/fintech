@@ -2,6 +2,8 @@ body {
   background-color: #ffff; /* ocean blue background */
   color: #000000; /* white text */
   font-family: Arial, sans-serif;
+  
+  background-image: url("images.jpg");
 }
 
 button {
