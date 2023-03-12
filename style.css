@@ -12,8 +12,9 @@ header {
   color: white;
 }
 .about {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: #ffff;
   padding: 20px;
+  opacity: 0.5;
 }
 
 
