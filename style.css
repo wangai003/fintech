@@ -8,6 +8,11 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
 }
+header {
+  color: white;
+}
+
+
 
 button {
   background-color: #00FFFF;
