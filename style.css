@@ -26,11 +26,11 @@ button {
   border-radius: 5px;
   border: none;
   cursor: pointer;
-   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 button:hover {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 /* Example table styling */
@@ -101,6 +101,7 @@ img {
   height: 30px;
   background-color: #f5f5f5;
   margin-bottom: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .chart-bar-label {
